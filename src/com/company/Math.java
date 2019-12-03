@@ -10,7 +10,7 @@ public class Math {
         return first + second;
     }
 
-    public int sub(int first, int second) {
-        return first - second;
+    public int sub(int first, int second, int third) {
+        return first - second - third;
     }
 }
